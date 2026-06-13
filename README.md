@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, I'm Sagar 👋
 
-<!--
-**sagar0041/sagar0041** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Java Developer based in Frankfurt/Offenbach, Germany — 6+ years building
+backend systems and platforms with Java, Spring Boot, and Kubernetes.
 
-Here are some ideas to get you started:
+Currently exploring AI-assisted development with Spring AI, RAG, and Kafka-based
+ingestion pipelines — building on a Master's thesis in chatbot integration and
+explainable AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Core stack:** Java 17 · Spring Boot 3 · Angular · Kubernetes · PostgreSQL · Kafka
+
+**Currently building:** [smart-document-qa](https://github.com/sagar0041/smart-document-qa)
+— a RAG-based document Q&A service with Spring AI, pgvector, and Kafka.
+
+📫 [LinkedIn](https://www.linkedin.com/in/sagarpatil4) · sagarpatil0041de@gmail.com
